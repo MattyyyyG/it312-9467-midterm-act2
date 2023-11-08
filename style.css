@@ -125,7 +125,7 @@ main {
 }
 
 #places-list .place {
-    border: 1px solid #ddd;
+    border: 2px solid #ddd;
     background-color: #f9f9f9;
     padding: 10px;
     margin-bottom: 10px;
@@ -161,7 +161,7 @@ main {
 #places-list .place:hover {
     background-color: rgba(59, 211, 48, 0.36);
     border-color: #236e17;
-    border-width: 3px;
+    border-width: 2px;
 }
 
 #back-to-top-button {
